@@ -24,10 +24,10 @@ Hello there, I'm Mahouachi Ahmed! 😃 I come from the beautiful city of Bizerte
 
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/mahouachi-ahmed" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img src="https://gpvc.arturio.dev/ahmedMahoauchi" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
 <!--   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=JayantGoel001&style=flat&color=brightgreen"> •    -->
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/ahmedMahoauchi?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/mahouachi-ahmed?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
+  <img src="https://img.shields.io/github/stars/ahmedMahoauchi?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
  
 </p>
 
@@ -35,7 +35,7 @@ Hello there, I'm Mahouachi Ahmed! 😃 I come from the beautiful city of Bizerte
 
 
  <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahouachi-ahmed&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedMahoauchi&theme=dark&hide_border=true"/>
 </p>
 
 
@@ -82,8 +82,8 @@ Hello there, I'm Mahouachi Ahmed! 😃 I come from the beautiful city of Bizerte
 <br/>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mahouachi-ahmed&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahouachi-ahmed&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedMahoauchi&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedMahoauchi&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
 </p>
 </details>
 <br/>
@@ -106,10 +106,4 @@ Hello there, I'm Mahouachi Ahmed! 😃 I come from the beautiful city of Bizerte
    
 
 <br/>
-
-
-
-
-
-
 
